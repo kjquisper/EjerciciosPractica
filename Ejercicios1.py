@@ -7,5 +7,5 @@ for n in range(1,11,1):#Define el rango de 0 a 10
 
 print(f"La lista creada: {list}")#Se imprime la lista
 
-
+#end
 
